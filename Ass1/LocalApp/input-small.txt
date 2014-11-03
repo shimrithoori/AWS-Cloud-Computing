@@ -1,0 +1,4 @@
+ToHTML	http://www.cs.bgu.ac.il/~dsp142/wiki.files/202-1-5391.pdf
+ToImage	http://www.cs.bgu.ac.il/~dsp142/wiki.files/202-1-5391.pdf
+ToText	http://www.cs.bgu.ac.il/~dsp142/wiki.files/202-1-5391.pdf
+ToImage	http://tbel.jvillagenetwork.com/uploadedFiles/site/Sitewide/Right_Column/Rabbinical%20Assembly%20Pesah%20Guide%205774.pdf
