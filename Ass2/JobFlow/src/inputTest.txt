@@ -1,0 +1,19 @@
+Adi is going homework now	2015	40	5	6
+Adi and Shimrit are tired	2011	20	6	7
+Shimrit love going homework	2014	10	9	9
+He is going something	2012	20	6	6
+going something not boring	2016	50	9	9
+Adi boring class	2014	30	8	8
+class always boring	2011	10	9	9
+going homework is fun!	2016	30	9	9
+
+Adi and Shimrit are talking 2007	20	8	8
+Adi is going homework now	2005	40	5	6
+Adi and Shimrit are tired	2001	20	6	7
+Shimrit love going homework	2004	10	9	9
+He is going something	2002	20	6	6
+going something not boring	2006	50	9	9
+Adi boring class	2004	30	8	8
+class always boring	2001	10	9	9
+going homework is fun!	2006	30	9	9
+Adi and Shimrit are talking 2007	20	8	8
